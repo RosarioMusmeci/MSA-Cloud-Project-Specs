@@ -1,5 +1,6 @@
 # MSA-Cloud-Project-Specs
-requirement section
+requirement section- to be seen RAW,
+
 The website present no technical issues, but it takes about 20sec to charge completely.
 The use of two plugins for cache pushed the speed and efficency of the website
 The GT-Metrix test provided a C for the performance, with a 10.1sec for fully charge and 112 request and 6.48MB of total page size.
